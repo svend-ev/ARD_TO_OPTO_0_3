@@ -23,7 +23,7 @@
   Blå    ==  D4
   Grøn   ==  D5
 
-moget endret
+noget ændret
 */
 
 
