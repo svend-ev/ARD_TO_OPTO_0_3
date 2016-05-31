@@ -23,7 +23,10 @@
   Blå    ==  D4
   Grøn   ==  D5
 
+moget endret
 */
+
+
 
 #include <SoftwareSerial.h>
 char input= 0;
